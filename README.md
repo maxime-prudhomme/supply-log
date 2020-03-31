@@ -1,5 +1,3 @@
-## Supply&Log Documentation
-
 ### PosLog Documentation ###
 see documentation [here](poslog/poslog.md)
 
