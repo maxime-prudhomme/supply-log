@@ -1,9 +1,12 @@
-## Supply&Log Documentation !!!
+## Supply&Log Documentation
+
+
+you can add here whatever link you want or edit directly HTML pages on gitHub 
 
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+you can use styles directly in the content file ".md" file
 
 ```markdown
 Syntax highlighted code block
