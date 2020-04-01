@@ -1,5 +1,5 @@
 ### Resend Extpo ###
-see documentation [here]ps://docs.google.com/document/d/19m6t4AG7fHd_kNvLVtpLCoeVWhJUIW3Ne7V4CN5LGqw/edit?ts=5db2a283)
+see documentation [here](https://docs.google.com/document/d/19m6t4AG7fHd_kNvLVtpLCoeVWhJUIW3Ne7V4CN5LGqw/edit?ts=5db2a283)
 
 ### PosLog Documentation ###
 see documentation [here](poslog/poslog.md)
