@@ -4,6 +4,9 @@ see documentation [here](https://docs.google.com/document/d/19m6t4AG7fHd_kNvLVtp
 ### PosLog Documentation ###
 see documentation [here](poslog/poslog.md)
 
+### Circuit Breaker ###
+see documentation [here](circuitbreaker/circuitbreaker.md)
+
 ### Holidays
 [conges!](https://docs.google.com/spreadsheets/d/1B62ohWhKEUAdIz6-LQ4FWUlD7q6Zevjo746GFeqRIRo/edit?ts=5d35d55f#gid=0)
 
